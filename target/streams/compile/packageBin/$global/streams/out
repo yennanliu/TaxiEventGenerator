@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/jerryliu/TaxiEventGenerator/target/scala-2.11/taxieventgenerator_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EventGenerator[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jerryliu/TaxiEventGenerator/target/scala-2.11/classes/EventGenerator[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EventGenerator/TaxiEventDataGenerator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jerryliu/TaxiEventGenerator/target/scala-2.11/classes/EventGenerator/TaxiEventDataGenerator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EventGenerator/TaxiEventDataGenerator$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jerryliu/TaxiEventGenerator/target/scala-2.11/classes/EventGenerator/TaxiEventDataGenerator$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EventGenerator/TaxiEventDataGenerator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jerryliu/TaxiEventGenerator/target/scala-2.11/classes/EventGenerator/TaxiEventDataGenerator.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
