@@ -6,7 +6,7 @@
 
 ## Quick Start
 ```bash
-
+# run the TaxiEventDataGenerator.scala script 
 $ sbt run
 # open the other terminal
 $ curl localhost:44444
@@ -16,18 +16,5 @@ $ curl localhost:44444
 #    "tour_value": 76.8712661022363,
 #    "id_driver": 3,
 #    "id_passenger": 68
-# }
-                
-# { "id": 2107006,
-#    "event_date": 1582713784907,
-#    "tour_value": 97.13985879731003,
-#    "id_driver": 0,
-#    "id_passenger": 41
-# }
-               
-# 
-# .
-# .
-# .
-
+# }...              
 ```
