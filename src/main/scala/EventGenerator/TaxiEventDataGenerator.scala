@@ -23,11 +23,13 @@ object TaxiEventDataGenerator {
 
           while (true) {
 
-            val id=123
-            val event_date=20200101
-            val tour_value=100
-            val id_driver="abc123"
-            val id_passenger="c0001"
+            val topic = "payment"
+            val r = scala.util.Random
+            val id = r.nextInt(10000000)
+            val tour_value = r.nextDouble() * 100
+            val id_driver = r.nextInt(10)
+            val id_passenger = r.nextInt(100)
+            val event_date = System.currentTimeMillis
 
             val payload =
                s"""
