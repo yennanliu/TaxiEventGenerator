@@ -6,7 +6,9 @@
 
 ## Quick Start
 ```bash
+
 $ sbt run
+# open the other terminal
 $ curl localhost:44444
 
 # { "id": 3546685,
@@ -22,13 +24,8 @@ $ curl localhost:44444
 #    "id_driver": 0,
 #    "id_passenger": 41
 # }
-                
-# { "id": 9773960,
-#    "event_date": 1582713785010,
-#    "tour_value": 36.661604401969306,
-#    "id_driver": 5,
-#    "id_passenger": 77
-# }
+               
+# 
 # .
 # .
 # .
