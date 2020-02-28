@@ -16,7 +16,7 @@ libraryDependencies ++= Seq(
 
 conflictManager := ConflictManager.latestRevision
 
-//mainClass := Some("rdd.WordCount")
+mainClass := Some("EventGenerator.TaxiEventDataGenerator")
 //mainClass := Some("sparkhelloworld.SparkProcessGameRDD")
 
 // assemblyMergeStrategy in assembly := {
