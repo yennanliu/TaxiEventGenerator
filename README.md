@@ -3,6 +3,7 @@
 ## Intro
 - Generate fake Taxi event as `stream` data source via scala
 - Feel free to modify the [code](https://github.com/yennanliu/TaxiEventGenerator/blob/master/src/main/scala/EventGenerator/TaxiEventDataGenerator.scala)! 
+- The output would like [this](https://github.com/yennanliu/TaxiEventGenerator/blob/master/output_demo.txt)
 
 ## Quick Start
 ```bash
